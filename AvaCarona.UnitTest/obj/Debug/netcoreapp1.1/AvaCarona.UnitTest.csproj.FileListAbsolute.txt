@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.UnitTest.deps.json
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.UnitTest.runtimeconfig.json
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.UnitTest.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.UnitTest.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.UnitTest.pdb
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\bin\Debug\netcoreapp1.1\AvaCarona.pdb
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.csproj.CopyComplete
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona.UnitTest\obj\Debug\netcoreapp1.1\AvaCarona.UnitTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\bin\Debug\netcoreapp1.1\AvaCarona.deps.json
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\bin\Debug\netcoreapp1.1\AvaCarona.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\bin\Debug\netcoreapp1.1\AvaCarona.pdb
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.dll
+C:\Users\Administrador\Desktop\AvaCarona\AvaCarona\obj\Debug\netcoreapp1.1\AvaCarona.pdb
